@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manel-Romero</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="intro-overlay">
+        <video id="intro-video" playsinline muted>
+            <source src="video.mp4" type="video/mp4">
+            Tu navegador no soporta video.
+        </video>
+    </div>
+    
+    <div id="video-glitch-layer" class="video-glitch"></div>
+
+    <button id="langToggle" class="lang-toggle hidden" aria-label="Toggle Language">[EN/ES]</button>
+
+    <div id="terminal" class="hidden" aria-live="polite"></div>
+
+    <script src="script.js" defer></script>
+</body>
+</html>
