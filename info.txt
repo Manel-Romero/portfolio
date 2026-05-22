@@ -1,0 +1,32 @@
+MANEL ROMERO
+Software Engineer & Product-Minded Builder
+
+SUMMARY
+Double Degree student (Computer Engineering + Business Administration).
+Focused on shipping high-impact, scalable solutions bridging technical architecture and business utility.
+
+SKILLS
+- PYTHON / JAVA / C++ / JS
+- PYTORCH / OPENCV / PANDAS
+- FASTAPI / AWS / DOCKER
+- TCP SOCKETS / LINUX
+
+EXPERIENCE
+- KINECSIS: FOUNDING ENGINEER (FEB 2026). Architected B2B SaaS for AI lead gen. RAG pipelines with FAISS. Full product lifecycle.
+- SOFTWARE DEVELOPER (2023-2025): Engineered custom software to automate schedule creation, reducing overhead by 86%.
+
+EDUCATION
+- DOUBLE DEGREE UPV (2025-PRES)
+- COMPETITIVE PROGRAMMING (CPUPV)
+- MUSIC CONSERVATORY (PIANO/SAX)
+
+PROJECTS
+01. PROXY SYSTEM: Lightweight TCP proxy enabling server hosting behind CG-NAT. (PYTHON / TCP / LINUX)
+02. URBAN TRAFFIC: Real-time monitoring pipeline for public urban video feeds. Multi-angle imagery processing. (PYTHON / OPENCV / PYTORCH)
+03. MARKET SENTIMENT: Financial forecasting pipeline: multi-factor technical indicators + NLP news sentiment. (PYTHON / OPTUNA / NLP)
+04. KINECSIS SAAS: B2B SaaS platform for AI-driven lead generation. RAG pipelines with FAISS. (FASTAPI / AWS / FAISS / RAG)
+
+CONTACT
+Email: manel.romero.alv@gmail.com
+LinkedIn: https://www.linkedin.com/in/manel-romero-alv
+GitHub: https://github.com/Manel-Romero
